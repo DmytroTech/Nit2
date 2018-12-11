@@ -5,3 +5,19 @@ body {
   font-family: Arial, sans-serif;
   text-align: center;
 }
+.nav-item{
+  margin: 2px;
+  padding: 2px;
+  color: #1d2124;
+}
+.product-grid{
+  margin-top : 80px;
+  margin-bottom: 80px;
+}
+.prod-grid{
+  margin: 10px;
+}
+.prod-img{
+  max-height: 200px;
+  object-fit: contain;
+}
